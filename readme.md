@@ -5,4 +5,4 @@ Normalista Superior con amplia formación en el área pedagógica, caracterizada
 * Normalista Superior - ENSO
 
 
-<img src="img/luisaAcosta.png.png" alt="Foto de Luisa" width="150px" height="150px"></img>
+<img src="img/luisaAcosta.png" alt="Foto de Luisa" width="150px" height="150px"></img>
